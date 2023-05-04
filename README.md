@@ -1,4 +1,4 @@
-# react-social-network
+# React Social Network
 
 A photosharing social network powered by ReactJS, Express and Firebase Storage / Authentication / Real-Time Database
 
